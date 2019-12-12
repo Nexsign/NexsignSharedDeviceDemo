@@ -4,7 +4,7 @@
 The 'Nexsign Shared Device Demo' is the demo application of Samsung SDS Nexsign solution for biometrics authentication on shared devices.
 
 ## How to use NexsignSharedDeviceDemo?
-User Guide will be released soon.
+[Nexsign Shared Device Demo User Guide](https://www.samsungsdsbiz.com/help/Nexsign_SharedDeviceDemo)
 
 ## Release Notes
 ### Version 2.1.1-sba (Build number 19112601)
