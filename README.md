@@ -13,7 +13,7 @@ The 'Nexsign Shared Device Demo' is the demo application of Samsung SDS Nexsign 
   * User : Registered user can sign-in on the registered devices
 * Apply new released libraries of Nexsign V2.1.1
   * support face/voice/face&voice authenticators for shared devices 
-* Biometric templates are not compatible between Android and iOS platforms.
+* Biometric templates are only compatible in the same mobile OS.
 
 ## Feedback or Issue
 [Nexsign Shared Device Demo Issue](https://github.com/Nexsign/NexsignSharedDeviceDemo/issues)
