@@ -7,6 +7,9 @@ The 'Nexsign Shared Device Demo' is the demo application of Samsung SDS Nexsign 
 [Nexsign Shared Device Demo User Guide](https://www.samsungsdsbiz.com/help/Nexsign_SharedDeviceDemo)
 
 ## Release Notes
+### version 2.2.0-sba (Build number 20080401)
+* Apply new released libraries of Nexsign v2.2.0
+
 ### Version 2.1.1-sba (Build number 19112601)
 * Provide two different scenarios for the experience of Nexsign authentication
   * Administrator : Device registration/deregistration, User registration/deregistration
